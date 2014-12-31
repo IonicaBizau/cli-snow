@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Snow, snow, snow! Let it snow, in terminal!",
   "main": "lib/index.js",
+  "bin": {
+      "snow": "./bin/snow"
+  },
   "scripts": {
     "test": "./bin/snow"
   },
