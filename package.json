@@ -1,0 +1,23 @@
+{
+  "name": "cli-snow",
+  "version": "1.0.0",
+  "description": "Snow, snow, snow! Let it snow, in terminal!",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "./bin/snow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:IonicaBizau/cli-snow.git"
+  },
+  "keywords": [
+    "cli",
+    "snow"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/cli-snow/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/cli-snow"
+}

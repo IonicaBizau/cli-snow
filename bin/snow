@@ -1,0 +1,28 @@
+#!/usr/bin/env node
+
+// Dependencies
+var CliUpdate = require("cli-update")
+  , CliBox = require("cli-box")
+  , CliSnow = require("../lib")
+  , Overlap = require("overlap")
+  , Figlet = require("figlet")
+  ;
+
+// Init snow
+Figlet("Happy New Year!", function (err, message) {
+    if (err) throw err;
+    var where = {};
+    var snow = CliSnow(function (err, snow) {
+        if (err) throw err;
+        CliUpdate.render(
+            Overlap({
+                who: snow
+              , with: message
+              , where: where
+            })
+        );
+    });
+
+    where.x = snow.options.size.w / 2 - message.split("\n")[0].length / 2;
+    where.y = snow.options.size.h - message.split("\n").length;
+});
