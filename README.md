@@ -2,6 +2,12 @@ CLI Snow
 ========
 Snow, snow, snow! Let it snow, in terminal!
 
+![](http://i.imgur.com/0tLNe6K.png)
+
+Yes, it's animated (probably we have to add there a gif file)! :smile:
+
+Inspired from [Let it snow](https://github.com/peachananr/let_it_snow).
+
 ## Installation
 
 ```sh
