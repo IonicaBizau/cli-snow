@@ -4,7 +4,7 @@ Snow, snow, snow! Let it snow, in terminal!
 
 ![](http://i.imgur.com/XwcGZsn.gif)
 
-Yes, it's animated (probably we have to add there a gif file)! :smile:
+Yes, it's animated! :smile:
 
 Inspired from [Let it snow](https://github.com/peachananr/let_it_snow).
 
