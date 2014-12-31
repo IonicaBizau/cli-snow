@@ -2,7 +2,6 @@
 
 // Dependencies
 var CliUpdate = require("cli-update")
-  , CliBox = require("cli-box")
   , CliSnow = require("../lib")
   , Overlap = require("overlap")
   , Figlet = require("figlet")
