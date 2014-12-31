@@ -2,7 +2,7 @@ CLI Snow
 ========
 Snow, snow, snow! Let it snow, in terminal!
 
-![](http://i.imgur.com/0tLNe6K.png)
+![](http://i.imgur.com/XwcGZsn.gif)
 
 Yes, it's animated (probably we have to add there a gif file)! :smile:
 
