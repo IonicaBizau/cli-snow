@@ -1,6 +1,6 @@
 {
   "name": "cli-snow",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Snow, snow, snow! Let it snow, in terminal!",
   "main": "lib/index.js",
   "bin": {
@@ -17,8 +17,8 @@
     "cli",
     "snow"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com>",
-  "license": "MIT",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "KINDLY",
   "bugs": {
     "url": "https://github.com/IonicaBizau/cli-snow/issues"
   },
@@ -29,5 +29,14 @@
     "overlap": "^1.5.0",
     "figlet": "^1.1.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "blah": {
+    "ex_img": "http://i.imgur.com/XwcGZsn.gif",
+    "description": {
+      "p": [
+        "Yes, it's animated! :smile:",
+        "Inspired from [Let it snow](https://github.com/peachananr/let_it_snow)."
+      ]
+    }
+  }
 }

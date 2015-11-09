@@ -7,6 +7,11 @@ var CliUpdate = require("cli-update")
   , Figlet = require("figlet")
   ;
 
+// Help output
+if (~process.argv.indexOf("-h") || ~process.argv.indexOf("--help")) {
+    return console.log("Usage: snow");
+}
+
 // Init snow
 Figlet("Happy New Year!", function (err, message) {
     if (err) throw err;
