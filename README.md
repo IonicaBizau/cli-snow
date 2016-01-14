@@ -1,6 +1,6 @@
-# `$ cli-snow` [![Support this project][donate-now]][paypal-donations]
+# `$ cli-snow` [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/cli-snow.svg)](https://www.npmjs.com/package/cli-snow) [![Downloads](https://img.shields.io/npm/dt/cli-snow.svg)](https://www.npmjs.com/package/cli-snow) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-Snow, snow, snow! Let it snow, in terminal!
+> Snow, snow, snow! Let it snow, in terminal!
 
 Yes, it's animated! :smile:
 
