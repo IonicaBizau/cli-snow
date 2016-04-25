@@ -1,6 +1,6 @@
 {
   "name": "cli-snow",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "Snow, snow, snow! Let it snow, in terminal!",
   "main": "lib/index.js",
   "bin": {
@@ -38,5 +38,16 @@
         "Inspired from [Let it snow](https://github.com/peachananr/let_it_snow)."
       ]
     }
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
