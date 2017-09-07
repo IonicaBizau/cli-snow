@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Initializes the snow in command line.
 
 #### Params
+
 - **Object** `options`: The settings object, containing the following fields:
  - `speed` (Number): How fast the snow falls. You can choose a number in between 0 - 5. The higher, the faster (default: `0`).
  - `chars` (Array): The characters used for snow flakes (default: `[".", "*", "@"]`).
