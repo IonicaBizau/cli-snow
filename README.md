@@ -21,7 +21,11 @@ You can install the package globally and use it as command line tool:
 
 
 ```sh
-$ npm i -g cli-snow
+# Using npm
+npm install --global cli-snow
+
+# Using yarn
+yarn global add cli-snow
 ```
 
 
